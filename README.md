@@ -13,9 +13,9 @@ If you decide to go, why stay?
 **About Me:**
 
 [![Markdown](http://img.shields.io/badge/Markdown-0D0D0D?logo=Dailymotion&logoColor=fff)](https://markdown.com.cn)
-[![Cloud Music](http://img.shields.io/badge/Cloud%20Music-6666CC?logo=AppleMusic&logoColor=fff)](https://github.com/lql6639/vue-cloud-music)
-[![GitHub Stars](http://img.shields.io/github/stars/lql6639?color=2da44e&label=GitHub%20Stars&logo=Github)](https://github.com/lql6639)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=lql6639.lql6639)](https://github.com/lql6639)
+[![Cloud Music](http://img.shields.io/badge/Cloud%20Music-6666CC?logo=AppleMusic&logoColor=fff)](https://lql6639.github.io/vue-cloud-music/dist/index.html)
+[![GitHub Stars](http://img.shields.io/github/stars/lql6639?color=2da44e&label=GitHub%20Stars&logo=Github)](http://img.shields.io/github/stars/lql6639?color=2da44e&label=GitHub%20Stars&logo=Github)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=lql6639.lql6639)](https://visitor-badge.laobi.icu/badge?page_id=lql6639.lql6639)
 
 **Languages:**
 
@@ -34,9 +34,8 @@ If you decide to go, why stay?
 
 **GitHub Stats:**
 
-```text
-Let's explore together ...
-```
+![lin's github stats](https://github-readme-stats.vercel.app/api?username=lql6639&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lql6639&layout=compact)
 
 **GitHub Snake:**
 
