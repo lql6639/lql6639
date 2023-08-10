@@ -47,4 +47,4 @@ If you decide to go, why stay?
 
 **GitHub Issues:**
 
-[![Issues](https://api.moedog.org/room/@lql6639/svg?width=600&height=180&limit=20&theme=light&fontSize=13&title=lql6639@github:%20&fontSize=12~)](https://api.moedog.org/room/@lql6639?title=lql6639%27s%20message%20board)
+[![Issues](https://api.moedog.org/room/@lql6639/svg?width=800&height=180&limit=20&theme=light&fontSize=13&title=lql6639@github:%20&fontSize=12~)](https://api.moedog.org/room/@lql6639?title=lql6639%27s%20message%20board)
