@@ -44,3 +44,7 @@ If you decide to go, why stay?
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lql6639/lql6639/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lql6639/lql6639/output/github-contribution-grid-snake.svg">
 </picture>
+
+**GitHub Issues:**
+
+[![Issues](https://api.moedog.org/room/@lql6639/svg?width=600&height=180&limit=20&theme=light&fontSize=13&title=lql6639@github:%20&fontSize=12~)](https://api.moedog.org/room/@lql6639?title=lql6639%27s%20message%20board)
