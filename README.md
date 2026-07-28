@@ -32,10 +32,9 @@ If you decide to go, why stay?
 ![React](http://img.shields.io/badge/React-087EA4?logo=React&logoColor=333)
 ![Visual Studio Code](http://img.shields.io/badge/VS%20CODE-006CAF?logo=VisualStudioCode&logoColor=fff)
 
-**GitHub Stats:**
+**GitHub State:**
 
-![lin's github stats](https://github-readme-stats.vercel.app/api?username=lql6639&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lql6639&layout=compact)
+<a href=""><img src="https://img.shields.io/badge/状态-持续更新中-brightgreen.svg"></a>
 
 **GitHub Snake:**
 
